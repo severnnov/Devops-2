@@ -1,0 +1,10 @@
+#num1=45
+#num2=46
+#num3=num1+10
+#print(num1+num2)
+#print(num3)
+#print(num3*963/2)
+x1=6
+x2=4
+print(x1/x2)
+print(x1+x2/8*254+100)
